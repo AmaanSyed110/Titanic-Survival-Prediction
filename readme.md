@@ -1,3 +1,4 @@
+## **Project Description**
 The project aims to develop a predictive model that can accurately determine the likelihood of a passenger's survival based on the given features. This can provide insights into the factors that influenced survival rates during the Titanic disaster.
 The repository includes data preprocessing steps, exploratory data analysis, feature engineering techniques, and various machine learning models implemented to tackle the survival prediction problem. The performance of different models is evaluated using appropriate metrics, and the best-performing model is selected for deployment.
 By analyzing the Titanic passenger data, this project demonstrates the application of machine learning techniques to historical events and contributes to a better understanding of the factors that played a role in the survival of passengers during the Titanic tragedy.
